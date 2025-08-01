@@ -19,9 +19,7 @@ GreenSafe-IoT is an IoT-based solution designed to help transport and store orga
 - **Frontend:** Web dashboard (HTML, CSS, JS or React)
 - **Communication:** Wi-Fi / Bluetooth / LoRa (as per your config)
 
-##  Screenshots
 
-> _Add screenshots or GIFs of your dashboard or hardware setup here._
 
 ##  Project Structure
 GreenSafe-IoT/
